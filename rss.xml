@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[davidwells]]></title>
         <description><![CDATA[davidwells]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/davidwells/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 17 Feb 2016 15:44:38 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 17 Feb 2016 15:45:37 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/davidwells/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Why are you here? </p>]]></description>
+            <link>https://thegrid.ai/davidwells/1a41ad79-cab4-4546-ac6a-e7c94c71c950/index.html</link>
+            <guid isPermaLink="false">1a41ad79-cab4-4546-ac6a-e7c94c71c950</guid>
+            <pubDate>Wed, 17 Feb 2016 15:45:14 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Making sense of it all. ]]></title>
-            <description><![CDATA[<article><h1>Making sense of it all. </h1><p>undefined</p></article>]]></description>
-            <link>undefinedmaking-sense-of-it-all/index.html</link>
+            <description><![CDATA[<h1>Making sense of it all. </h1>]]></description>
+            <link>https://thegrid.ai/davidwells/making-sense-of-it-all/index.html</link>
             <guid isPermaLink="false">bbc4b594-cac1-4727-95ab-16eb0a27449b</guid>
             <pubDate>Wed, 17 Feb 2016 15:44:37 GMT</pubDate>
         </item>
