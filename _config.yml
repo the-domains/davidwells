@@ -1,9 +1,30 @@
-favicon: null
-name: davidwells
+typography_spectrum: 0.3382979
+color:
+  saturation: 0.2617021
+  brandStrength: 0.3404255
+  lightness: 0.6276596
+  brandColors:
+    - '#020001'
+    - '#4B3C35'
+    - '#978169'
+    - '#90581E'
+    - '#FE9445'
+  rhythmicContrast: 0.3829787
 opengraph:
   image: null
   type: null
   appId: null
+layout_spectrum: 0.63655
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+name: davidwells
+cta:
+  bucket: null
+  version: null
+  domain: null
+favicon: null
 collections:
   - index:
       path: /
@@ -16,25 +37,5 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
+title: David Wells
 purpose: []
-color:
-  saturation: 0.2617021
-  brandStrength: 0.3404255
-  lightness: 0.6276596
-  brandColors:
-    - '#020001'
-    - '#4B3C35'
-    - '#978169'
-    - '#90581E'
-    - '#FE9445'
-  rhythmicContrast: 0.3829787
-typography_spectrum: 0.3382979
-layout_spectrum: 0.63655
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-cta:
-  bucket: null
-  version: null
-  domain: null
