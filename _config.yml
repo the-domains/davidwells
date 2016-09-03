@@ -38,4 +38,5 @@ collections:
     permalink:
       path: '/:title/'
 title: David Wells
+description: ' '
 purpose: []
